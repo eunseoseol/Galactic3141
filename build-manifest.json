@@ -1,0 +1,146 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/zHlmjM-LT7E18Nq4x6Wzp/_buildManifest.js",
+    "static/zHlmjM-LT7E18Nq4x6Wzp/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/90d7d5f81eb039af.css",
+      "static/chunks/pages/index-168bdb97327d55f9.js"
+    ],
+    "/NFT-details": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/1a48c3c1-2eede12e2ecd6457.js",
+      "static/css/4881554df1ed2f5b.css",
+      "static/chunks/pages/NFT-details-97e1b105bf6f256f.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/53beee85aedd4279.css",
+      "static/chunks/pages/_app-72c8d3249924004b.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/aboutus": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/fb3e3bd400ac36b9.css",
+      "static/chunks/pages/aboutus-4de2f568ffa2ba27.js"
+    ],
+    "/account": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/d64684d8-be20eae60939955d.js",
+      "static/chunks/750-9113031a288cde11.js",
+      "static/css/f2f6bf255e4db228.css",
+      "static/chunks/pages/account-5b67f3d9d5dc45c8.js"
+    ],
+    "/author": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/893-c17dd74ec2e67f09.js",
+      "static/css/1752ab403cb46891.css",
+      "static/chunks/pages/author-80ae401e871600b9.js"
+    ],
+    "/collection": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/b54e89455afc41cc.css",
+      "static/chunks/pages/collection-e0aa3a7f98261852.js"
+    ],
+    "/connectWallet": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/341e4f68816fce91.css",
+      "static/chunks/pages/connectWallet-7440f62479f017be.js"
+    ],
+    "/contactus": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/d64684d8-be20eae60939955d.js",
+      "static/css/7b0aa2241f09ee21.css",
+      "static/chunks/pages/contactus-4c175f32a723c8c4.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/192958581cac8e35.css",
+      "static/chunks/pages/login-7f374522a5041287.js"
+    ],
+    "/reSellToken": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/1127d54f3a0761ff.css",
+      "static/chunks/pages/reSellToken-fb495ca7be04d3d3.js"
+    ],
+    "/searchPage": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/a1be2da5f7774529.css",
+      "static/chunks/pages/searchPage-5d23146007a0a682.js"
+    ],
+    "/signUp": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/192958581cac8e35.css",
+      "static/chunks/pages/signUp-58f8ab7d887fd85f.js"
+    ],
+    "/subscription": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/53c856a6e7129492.css",
+      "static/chunks/pages/subscription-c675343081749606.js"
+    ],
+    "/subscriptionn": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/53c856a6e7129492.css",
+      "static/chunks/pages/subscriptionn-30e98c754da5528c.js"
+    ],
+    "/transferFunds": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/css/e8af9b2275424850.css",
+      "static/chunks/pages/transferFunds-22424ce1157dd9c6.js"
+    ],
+    "/uploadNFT": [
+      "static/chunks/webpack-434fefa8f39d8fbc.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-c354a30bda3d62a6.js",
+      "static/chunks/750-9113031a288cde11.js",
+      "static/css/9547f89e72722fc2.css",
+      "static/chunks/pages/uploadNFT-253884ae5f051cf8.js"
+    ]
+  },
+  "ampFirstPages": []
+}
