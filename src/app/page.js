@@ -46,7 +46,7 @@ export default function Page() {
           <div style={{ position: 'relative', zIndex: 1, paddingBottom: '40px', height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center',marginTop: '-50px' // Move the whole block up by 50px
   }}>
   
-  <a   href="https://discord.gg/ZupuaSUu"
+  <a   href="https://discord.gg/wbvZqzfGJA"
             >
               <img src="/book.png" alt="Book" style={mobilehoverStyle} />
             </a>
@@ -96,7 +96,7 @@ export default function Page() {
         <div style={{ position: 'relative', zIndex: 1, paddingBottom: '40px', height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center',marginTop: '-50px' // Move the whole block up by 50px
 }}>
 
-<a   href="https://discord.gg/BxhhhbjKrk"
+<a   href="https://discord.gg/wbvZqzfGJA"
           >
             <img src="/book.png" alt="Book" style={hoverStyle} />
           </a>
