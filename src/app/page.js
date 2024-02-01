@@ -91,7 +91,8 @@ export default function Page() {
   };
 
   return (
-    <div style={{ position: 'relative', width: '100vw', height: '100vh',overflowY: 'scroll' }}>
+    <div style={{ position: 'relative', width: '100vw', height: '100vh',overflowY: 'scroll',     backgroundColor: 'black' // 검은 배경색 설정
+ }}>
     
       {isLoggedIn ? (
         <>
