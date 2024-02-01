@@ -91,7 +91,8 @@ export default function Page() {
   };
 
   return (
-    <div style={{ position: 'relative', width: '100vw', height: '100vh',overflowY: 'scroll',     backgroundColor: 'black' // 검은 배경색 설정
+    <div style={{ position: 'relative', width: '100vw', height: '100vh',overflowY: 'scroll',     backgroundColor: 'black',   margin: 0, // 페이지 바깥의 마진을 제거
+    padding: 0, // 페이지 내부의 패딩을 제거 // 검은 배경색 설정
  }}>
     
       {isLoggedIn ? (
