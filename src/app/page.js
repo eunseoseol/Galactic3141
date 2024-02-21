@@ -19,9 +19,9 @@ export default function Page() {
     const isAppleDevice = /iphone|ipad|ipod|macintosh/.test(userAgent);
 
     if (isAppleDevice) {
-      setStoreUrl("https://discord.gg/KS5FJ6ge");
+      setStoreUrl("https://discord.gg/galactic3141");
     } else {
-      setStoreUrl("https://discord.gg/KS5FJ6ge");
+      setStoreUrl("https://discord.gg/galactic3141");
     }
 
     const handleResize = () => {
